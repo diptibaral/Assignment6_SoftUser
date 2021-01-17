@@ -36,7 +36,7 @@ class DashboardActivity : AppCompatActivity() {
 
 
     }
-
+//
     private fun loadlist(){
         if (lisfOfStudent.size==0){
             lisfOfStudent.add(Student("Dipti Baral", "20", "Samakhusi", "Female"));
